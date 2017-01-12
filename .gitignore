@@ -1,0 +1,14 @@
+logs
+*.log*
+
+dist/
+
+coverage/
+
+node_modules/
+
+npm-debug.log
+
+.yarn-cache.tgz
+
+.DS_Store
